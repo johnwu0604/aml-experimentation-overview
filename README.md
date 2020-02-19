@@ -4,8 +4,18 @@ This repository goes over how to train and deploy models using Azure Machine Lea
 
 There are 3 folders in this repository which correspond to the 3 different approaches one can experiment with using the service. Each of the three approaches have their own advantages/disadvantages while also catering to different skill levels from beginner to advanced.
 
-## Auto ML (No-Code)
+### Auto ML (No-Code)
 
-## Designer (Some-Code)
+![automl](screenshots/automl.png)
 
-## Notebooks (All-Code)
+### Designer (Some-Code)
+
+![designer](screenshots/designer.png)
+
+### Notebooks (All-Code)
+
+![jupyter](screenshots/jupyter.png)
+
+```python
+
+```
